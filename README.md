@@ -1,2 +1,2 @@
 # autonomous-robot-motion-planning-simulator
-AI-based robot navigation with obstacle avoidance and path visualization using NumPy and Matplotlib
+An AI-based robot navigation simulator that performs path planning, obstacle avoidance, and motion control using vector-based movement logic implemented in Python (NumPy + Matplotlib).
