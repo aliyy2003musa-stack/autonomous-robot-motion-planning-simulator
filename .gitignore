@@ -1,3 +1,4 @@
+# Byte-compiled files
 __pycache__/
 *.pyc
 *.pyo
@@ -6,10 +7,18 @@ __pycache__/
 # Virtual environments
 venv/
 .env
+.venv/
+ENV/
 
-# VS Code settings
+# VS Code
 .vscode/
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
