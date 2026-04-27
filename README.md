@@ -18,3 +18,7 @@ This project simulates an autonomous robot navigating through multiple target po
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## 📷 Simulation Output
+
+![Robot Motion Simulation](robot-simulation.png)
