@@ -20,4 +20,4 @@ pip install numpy matplotlib
 python main.py
 
 ##  Simulation Output
-![Robot Motion Simulation](robot-simulation.png)
+[Robot Motion Simulation](robot-simulation.png)
